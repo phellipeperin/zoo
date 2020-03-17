@@ -1,5 +1,5 @@
 {
-  "name": "zoo",
+  "name": "Zoo",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,6 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.1",
     "core-js": "^3.6.4",
     "vue": "^2.6.11"
   },
